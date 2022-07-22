@@ -1,0 +1,299 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarGroup should render correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="nextui-c-ckyKsw"
+      >
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            Jun
+          </span>
+        </span>
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            Jane
+          </span>
+        </span>
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            W
+          </span>
+        </span>
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            John
+          </span>
+        </span>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="nextui-c-ckyKsw"
+    >
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          Jun
+        </span>
+      </span>
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          Jane
+        </span>
+      </span>
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          W
+        </span>
+      </span>
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-evoADT-bordered-true nextui-c-fFabR-gBVgtO-stacked-true nextui-c-fFabR-bAEoQm-rounded-true nextui-c-fFabR-MtAEf-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          John
+        </span>
+      </span>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`AvatarGroup should stacked when avatars are in a group 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="nextui-c-ckyKsw nextui-c-ckyKsw-hEoPQl-animated-true"
+      >
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-bAEoQm-rounded-true nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            1
+          </span>
+        </span>
+        <span
+          class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-bAEoQm-rounded-true nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+          data-state="ready"
+        >
+          <span
+            class="nextui-avatar-bg"
+          />
+          <span
+            class="nextui-avatar-text"
+          >
+            2
+          </span>
+        </span>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="nextui-c-ckyKsw nextui-c-ckyKsw-hEoPQl-animated-true"
+    >
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-bAEoQm-rounded-true nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          1
+        </span>
+      </span>
+      <span
+        class="nextui-c-fFabR nextui-c-PJLV nextui-c-ldmKBv nextui-c-fFabR-qXFXw-color-default nextui-c-fFabR-duCSmO-textColor-default nextui-c-fFabR-iHugVF-size-md nextui-c-fFabR-krOtXB-borderWeight-normal nextui-c-fFabR-bAEoQm-rounded-true nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-fFabR-iPJLV-css only-text-avatar"
+        data-state="ready"
+      >
+        <span
+          class="nextui-avatar-bg"
+        />
+        <span
+          class="nextui-avatar-text"
+        >
+          2
+        </span>
+      </span>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
